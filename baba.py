@@ -305,4 +305,4 @@ def action():
     main1()
 
 
-bnsbuy()
+    bnsbuy()
